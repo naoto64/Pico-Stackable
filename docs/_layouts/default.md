@@ -2,7 +2,5 @@
 	<head>
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	</head>
-	<body>
-		<iframe src="index.md" width="100%", height="100%"></iframe>
-	</body>
 </html>
+Pico Stackable
