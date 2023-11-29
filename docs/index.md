@@ -1,3 +1,3 @@
-<link rel="icon" href="./favicon.ico" sizes="any">
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
 
 # Pico Stackable
